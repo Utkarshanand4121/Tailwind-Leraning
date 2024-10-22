@@ -1,1 +1,1 @@
-<h1>Learning Tailwind CSS and Made a UI</h1>
+<h1>Learning Tailwind CSS</h1>
